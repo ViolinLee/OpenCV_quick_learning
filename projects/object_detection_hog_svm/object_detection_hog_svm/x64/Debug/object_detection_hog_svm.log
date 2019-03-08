@@ -1,0 +1,15 @@
+﻿  trainSVM.cpp
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(20): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(62): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(167): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(168): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(189): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(195): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(197): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  object_detection_hog_svm.vcxproj -> E:\CV\OpenCV_quick_learning\projects\object_detection_hog_svm\x64\Debug\object_detection_hog_svm.exe
+  object_detection_hog_svm.vcxproj -> E:\CV\OpenCV_quick_learning\projects\object_detection_hog_svm\x64\Debug\object_detection_hog_svm.pdb (Full PDB)

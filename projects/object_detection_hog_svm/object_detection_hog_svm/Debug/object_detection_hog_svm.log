@@ -1,0 +1,12 @@
+﻿  trainSVM.cpp
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(20): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(62): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+e:\cv\opencv_quick_learning\projects\object_detection_hog_svm\trainsvm.cpp(250): warning C4018: “<”: 有符号/无符号不匹配
+opencv_world344d.lib(opencv_world344d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
